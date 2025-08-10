@@ -1,3 +1,5 @@
+alert("Welcome to Ashrit's Website");
+
 let boxes = document.getElementsByClassName("box");
 let statusBox = document.getElementById("status");
 let resultPopup = document.getElementById("result-popup");
