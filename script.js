@@ -1,5 +1,4 @@
-alert("Welcome to Ashrit's Website");
-alert("Enjoy the Game");
+alert("Welcome you All..,Enjoy the Game");
 
 let boxes = document.getElementsByClassName("box");
 let statusBox = document.getElementById("status");
